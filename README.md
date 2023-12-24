@@ -13,7 +13,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Project Link](#project-link)
 - [References](#references)
 
 ## About
